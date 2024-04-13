@@ -129,6 +129,9 @@ body {
 .menu {
 	margin-left: 182.5px;
 }
+.menu a {
+	text-decoration: none;
+}
 .aboutsite p {
 	color: #8EB4FE;
 	text-shadow: 0 0 7px #A2FFC7;
