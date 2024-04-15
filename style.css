@@ -36,7 +36,7 @@ body {
 		height: 100px;
 		background-color: #96CCFE;
 		box-shadow: 0 3px 6px #7BB5EA, 0 3px 6px #7BB5EA;
-	justify-content: space-between;
+        justify-content: space-between;
 }
 
 .turbomenu > nav > div {
@@ -68,7 +68,7 @@ body {
 		background-color: white;
 		min-width: 200%;
 		position: absolute;
-		box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+		box-shadow: 0 10px 20px #7BB5EA, 0 6px 6px #7BB5EA;
 		padding: 10px;
 }
 
