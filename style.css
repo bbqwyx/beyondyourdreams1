@@ -127,7 +127,7 @@ body {
 	font-size: 22px;
 }
 .menu {
-	margin-left: 212.5px;
+	margin-left: 225.5px;
 }
 .boutus, .nature, .canyon, .islands, .culture, .wall, .acropolis, .places, .japan, .costarica {
 	text-decoration: none;
@@ -231,7 +231,7 @@ footer p {
 footer .bydlogo {
 	position: absolute;
 	font-size: 36px;
-	top: 605px;
+	top: 600px;
 	right: 205px;
 }
 .links a:hover {
